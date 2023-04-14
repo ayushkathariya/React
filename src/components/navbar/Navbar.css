@@ -1,0 +1,14 @@
+.Navbar {
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+
+a {
+    margin-inline: 20px;
+    font-size: 2rem;
+}
+
+a:hover {
+    color: rgb(31, 26, 26);
+}

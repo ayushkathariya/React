@@ -1,0 +1,16 @@
+.Services {
+    margin-top: 56px;
+}
+
+.row-two {
+    max-width: calc(99vw - 1px);
+}
+
+.row-one, .row-two, .row-three {
+    padding-block: 50px;
+}
+
+.row-two {
+    width: 100vw;
+    background-color: rgb(214, 228, 228);
+}
